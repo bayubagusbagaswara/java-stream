@@ -34,3 +34,8 @@
 - Java Stream diimplementasikan oleh sebuah class bernama Stream di dalam package java.util.stream
 - Java Stream tidak sekompleks Java Collection. Namun walaupun sederhana, fitur Java Stream sangat powerfull
 - Class Stream merupakan Generic Class, sehingga kita bisa membuat aliran data dengan tipe yang kita inginkan
+
+# Membuat Stream
+
+- Ada banyak cara untuk membuat Stream di Java
+- Bisa membuat langsung Stream dari Array atau dari Collection
